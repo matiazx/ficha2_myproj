@@ -2,4 +2,6 @@ Eliminei a primeira linha e escrevi esta!!
 
 Estou a fazer alterações no ficheiro
 
-!!!!!Alterações efetuadas no branch NovaFeature!!!!
+ALTERAÇOES EFECTUADAS NO BRANCH 'NOVAFEATURE'
+
+ALTERAÇAO EM MASTER
